@@ -1,0 +1,2 @@
+# hugoblog
+blog code
